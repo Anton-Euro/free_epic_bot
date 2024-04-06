@@ -1,0 +1,5 @@
+aiogram==3.4.1
+Flask==3.0.2
+requests==2.31.0
+pytz==2022.7
+psycopg2==2.9.9
